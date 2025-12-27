@@ -1,5 +1,5 @@
 # 💫 About Me:
-In here you'll find some classwork from my degree, as well as some personal projects, both solo and with friends.<br><br>🌱 I'm trying to learn everything, from web development to AI, databases, and systems<br>📢 Reach out if you have any questions!
+In here you'll find some classwork from my degree, as well as some personal projects, both solo and with friends.<br><br>🌱 I'm trying to learn everything, from web development to AI, databases, and systems.<br>📢 Reach out if you have any questions!
 
 
 ## 🌐 Socials:
